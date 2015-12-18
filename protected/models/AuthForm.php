@@ -3,12 +3,7 @@
 
 
 class AuthForm extends CFormModel{
-	public $login;
-	public $password;
-	public $name;
-	public $surname;
-	public $email;
-	public $telephone;
+	
 
 	private $_identity;
 
